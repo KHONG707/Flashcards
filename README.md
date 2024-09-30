@@ -30,7 +30,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![Kapture 2024-09-30 at 10 30 08](https://github.com/user-attachments/assets/5101ff68-b9df-4199-8123-a18e57e2809c)
 
 
 GIF created with [Kap](https://getkap.co/) 
