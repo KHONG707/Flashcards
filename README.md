@@ -30,6 +30,7 @@ The following **additional** features are implemented:
 
 
 Here's a walkthrough of implemented required features:
+![Kapture 2024-10-02 at 01 26 00](https://github.com/user-attachments/assets/a848fcb7-a72b-4cc6-97af-162e183b197d)
 
 
 
