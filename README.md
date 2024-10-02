@@ -1,26 +1,26 @@
-# Web Development Project 2 - *Flashcards*
+# Web Development Project 3 - *Flashcards*
 
 Submitted by: **Kristal Hong**
 
-This web app: **A web app for flashcard for users to use to study and/or learn something new about React!**
+This web app: **A web app for user to utilize flashcards to test math concepts/questions!**
 
-Time spent: **2** hours spent in total
+Time spent: **3** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [x] **The title of the card set and some information about it, such as a short description and the total number of cards are displayed**
-- [x] **A single card at a time is displayed, only showing one of the components of the information pair**
-- [x] **A list of card pairs is created**
-- [x] **Clicking on the card shows the corresponding component of the information pair**
-- [x] **Clicking the next button displays a random new card**
+- [x] **The user can enter their guess in a box before seeing the flipside of the card**
+- [x] **Clicking on a submit button shows visual feedback about whether the answer was correct or incorrect**
+- [x] **A back button is displayed on the card and can be used to return to the previous card in a set sequence**
+- [x] **A next button is displayed on the card and can be used to navigate to the next card in a set sequence**
 
 The following **optional** features are implemented:
 
-- [ ] Cards contains images in addition to or in place of text
-- [ ] Cards have different visual styles such as color based on their category
-- [x] *visual style implemented*
+- [x] A shuffle button is used to randomize the order of the cards
+- [ ] A user's answer may be counted as correct even when it is slightly different from the target answer
+- [x] A counter displays the user's current and longest streak of correct responses
+- [x] A user can mark a card that they have mastered and have it removed from the pool of answers as well as added to a list of mastered cards
 
 The following **additional** features are implemented:
 
@@ -28,14 +28,20 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
+<<<<<<< HEAD
 Here's a walkthrough of implemented required features:
 
 ![Kapture 2024-09-30 at 10 30 08](https://github.com/user-attachments/assets/5101ff68-b9df-4199-8123-a18e57e2809c)
+=======
+Here's a walkthrough of implemented user stories:
+>>>>>>> 085e76d (Update Pt2)
 
 
-GIF created with [Kap](https://getkap.co/) 
+
+GIF created with [Kap](https://getkap.co/)
 
 ## Notes
+
 
 ## License
 
